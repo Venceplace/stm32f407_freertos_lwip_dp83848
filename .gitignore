@@ -1,0 +1,50 @@
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.elf
+
+# Libraries
+*.a
+*.la
+*.lo
+
+# Shared objects
+*.so
+*.so.*
+
+# Executables
+*.hex
+*.bin
+
+# stuff
+*.lst
+*.map
+
+# gnu global files
+GPATH
+GRTAGS
+GSYMS
+GTAGS
+
+# ctags files
+tags
+
+# JSON Compilation Database file
+/compile_commands.json
+
+# YouCompleteMe extra configure file
+.ycm_extra_conf.py
+
+# build file
+/build/
+
+# cache file
+/.cache/
+
+#vscode file
+/.vscode/
+
+#ros create file
+/create_ros_lib/
